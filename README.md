@@ -24,7 +24,7 @@ The P90 client helps solar energy analysts and engineers:
 
 All users must first [signup for access](https://www.sunsolve.com/p90/signup/). In addition, you will need:
 
-* Google Colab; **OR** the below:
+* [Google Colab](https://colab.research.google.com/github/pvlighthouse/SunSolveP90/blob/main/P90%20Analysis.ipynb); **OR** the below:
 * Python 3+ (https://www.python.org/downloads/)
 * pip 20+ (https://pypi.org/project/pip/ )
 * Jupyter (run `pip install jupyter` from terminal)
